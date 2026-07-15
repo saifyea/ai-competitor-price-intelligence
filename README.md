@@ -56,3 +56,51 @@ An AI-powered business intelligence tool that combines **web scraping**, **LLM-b
 5. Compare competitor pricing.
 6. Recommend pricing strategies.
 7. Save the final analysis as a JSON report.
+
+---
+
+## 📂 Project Structure
+
+```text
+ai-competitor-price-intelligence/
+│
+├── scraper.py                    # Scrapes product data
+├── analyzer.py                   # AI market analysis
+├── kids_toy_price_monitor.py     # Competitor pricing analysis
+├── README.md
+├── requirements.txt
+├── .env.example
+├── .gitignore
+│
+├── assets/                       # Screenshots
+├── data/                         # Sample data
+└── reports/                      # AI analysis reports
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/saifyea/ai-competitor-price-intelligence.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create a `.env` file:
+
+```text
+ANTHROPIC_API_KEY=your_api_key_here
+```
+
+Run the project:
+
+```bash
+python kids_toy_price_monitor.py
+```
