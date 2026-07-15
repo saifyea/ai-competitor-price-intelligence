@@ -104,3 +104,51 @@ Run the project:
 ```bash
 python kids_toy_price_monitor.py
 ```
+---
+
+## 💼 Business Use Case
+
+Businesses need to continuously monitor competitor pricing to stay competitive.
+
+This AI-powered tool helps businesses:
+
+- 🔍 Track competitor product prices
+- 📊 Understand market positioning
+- 💡 Identify pricing opportunities
+- 🤖 Generate AI-based pricing recommendations
+- 📄 Create automated analysis reports
+
+### Example Scenario:
+
+A small e-commerce business wants to know:
+
+> "Am I pricing my products correctly compared to competitors?"
+
+This tool analyzes competitor prices and provides actionable recommendations.
+
+---
+
+## 📊 Example Output
+
+### Competitor Price Analysis
+
+```
+Product: Flash Cards
+
+Your Price: 250 BDT
+
+Competitor A: 280 BDT
+Competitor B: 230 BDT
+
+AI Recommendation:
+
+Keep current price.
+Your pricing is competitive.
+Consider highlighting value instead of reducing price.
+```
+
+### AI Generated Insights:
+
+- Identified overpriced products
+- Found competitive pricing opportunities
+- Suggested balanced pricing strategy
