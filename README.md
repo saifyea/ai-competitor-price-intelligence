@@ -152,3 +152,24 @@ Consider highlighting value instead of reducing price.
 - Identified overpriced products
 - Found competitive pricing opportunities
 - Suggested balanced pricing strategy
+---
+
+## 📸 Demo
+
+### AI Competitor Price Analysis
+
+Example output from the AI pricing analysis system:
+
+![AI Price Analysis Demo](assets/demo.png)
+
+---
+
+## 🔮 Future Improvements
+
+Planned improvements:
+
+- Add more e-commerce website support
+- Improve data extraction accuracy
+- Add visualization for price comparison
+- Create automated reporting system
+- Build a simple dashboard interface
